@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<student> 
+  <ime>Tihomir</ime>
+  <prezime>Zbukvic</prezime>
+  <godinaStudija>2</godinaStudija>
+  <JMBG>123456789655</JMBG>
+  <datum>2026-03-18</datum>
+  <kontakt>
+    <e-mail>tihomir.zbukvic.tvz@gmail.com</e-mail>
+    <telefon>09991929393</telefon>
+  </kontakt>
+  <kolegijiStudenta>
+    <hrvatski>
+      <nazivKolegija>Hrvatski jezik u informatici</nazivKolegija>
+      <imeProfesora>Patrik</imeProfesora>
+      <brojEctsBodova>6</brojEctsBodova>
+    </hrvatski>
+    <engleski>
+      <nazivKolegija>Engleski jezik u informatici</nazivKolegija>
+      <imeProfesora>Silvio</imeProfesora>
+      <brojEctsBodova>5</brojEctsBodova>
+    </engleski>
+    <matematika>
+      <nazivKolegija>Matematičke znanosti</nazivKolegija>
+      <imeProfesora>Sven</imeProfesora>
+      <brojEctsBodova>7</brojEctsBodova>
+    </matematika>
+  </kolegijiStudenta>
+</student>

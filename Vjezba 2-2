@@ -1,49 +1,49 @@
 <?xml version="1.0"?>
 <knjiznice>
     <knjiznica id="Gradska">
-        <adresa>Ilica 20, Zagreb</adresa>
+        <adresa>Kneza Mislava 5, Zagreb</adresa>
         <knjige>
             <knjiga>
-                <naziv>Na Drini ćuprija</naziv>
-                <autor>Ivo Andrić</autor>
-                <godina>1945</godina>
-                <zanr>Roman</zanr>
+                <naziv>Starac i more</naziv>
+                <autor>Ernest Hemingway</autor>
+                <godina>1952</godina>
+                <zanr>Književna fikcija</zanr>
                 <!--Roman nije žanr-->
-                <primjerci>5</primjerci>
+                <primjerci>4</primjerci>
+            </knjiga>
             <knjiga>
-            <knjiga>
-                <naziv>Zločin i kazna</naziv>
-                <autor>Fjodor Dostojevski</autor>
-                <godina>1866</godina>
-                <zanr>Roman</zanr>
-                <primjerci>3</primjerci>
-            <knjiga>
+                <naziv>Stranac</naziv>
+                <autor>Albert Camus</autor>
+                <godina>1942</godina>
+                <zanr>Filozofska fikcija</zanr>
+                <primjerci>6</primjerci>
+            </knjiga>
         </knjige>
     </knjiznica>
     <knjiznica id="Fakultetska">
-        <adresa>Vukovarska 58, Split</adresa>
+        <adresa>Matice hrvatske 2, Rijeka</adresa>
         <knjige>
             <knjiga>
-                <naziv>C Programiranje</naziv>
-                <autor>Brian Kernighan</autor>
-                <godina>1988</godina>
+                <naziv>Čisti kod</naziv>
+                <autor>Robert C. Martin</autor>
+                <godina>2008</godina>
                 <zanr>Informatika</zanr>
-                <primjerci>7</primjerci>
+                <primjerci>5</primjerci>
+            </knjiga>
             <knjiga>
-            <knjiga>
-                <naziv>Uvod u algoritme</naziv>
-                <autor>Thomas Cormen</autor>
-                <godina>2009</godina>
+                <naziv>Dizajn obrazaca</naziv>
+                <autor>Erich Gamma</autor>
+                <godina>1994</godina>
                 <zanr>Informatika</zanr>
-                <primjerci>4</primjerci>
+                <primjerci>3</primjerci>
+            </knjiga>
             <knjiga>
-            <knjiga>
-                <naziv>Hamlet</naziv>
-                <autor>William Shakespeare</autor>
-                <godina>1603</godina>
+                <naziv>Bijeda i sjaj</naziv>
+                <autor>Honoré de Balzac</autor>
+                <godina>1847</godina>
                 <zanr>Drama</zanr>
-                <primjerci>6</primjerci>
-            <knjiga>
+                <primjerci>2</primjerci>
+            </knjiga>
         </knjige>
     </knjiznica>
 </knjiznice>

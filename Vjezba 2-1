@@ -1,117 +1,99 @@
 <?xml version="1.0"?>
 <catalog>
-   <book>
-      <author>Gambardella, Matthew</author>
-      <title>XML Developer's Guide</title>
-      <genre>Computer</genre>
-      <price>44.95</price>
-      <publish_date>2000-10-01</publish_date>
-      <description>An in-depth look at creating applications with XML.</description>
+   <book id="bk101">
+      <author>Tolkien, J.R.R.</author>
+      <title>The Fellowship of the Ring</title>
+      <genre>Fantasy</genre>
+      <price>12.99</price>
+      <publish_date>1954-07-29</publish_date>
+      <description>A young hobbit named Frodo inherits a mysterious ring and embarks on a perilous journey to destroy it before it falls into the hands of the Dark Lord Sauron.</description>
    </book>
    <book id="bk102">
-      <author>Ralls, Kim</author>
-      <title>Midnight Rain</title>
-      <genre>Fantasy</genre>
-      <price>5.95</price>
-      <publish_date>2000-12-16</publish_date>
-      <description>A former architect battles corporate zombies, an evil sorceress, and her own childhood to become queen  of the world.</description>
+      <author>Orwell, George</author>
+      <title>1984</title>
+      <genre>Science Fiction</genre>
+      <price>9.99</price>
+      <publish_date>1949-06-08</publish_date>
+      <description>In a totalitarian future society, Winston Smith works for the government rewriting history, but begins to question the oppressive regime he serves.</description>
    </book>
    <book id="bk103">
-      <author>Corets, Eva</author>
-      <title>Maeve Ascendant</title>
-      <genre>Fantasy</genre>
-      <price>5.95</price>
-      <publish_date>2000-11-17</publish_date>
-      <description>After the collapse of a nanotechnology 
-      society in England, the young survivors lay the 
-      foundation for a new society.</description>
+      <author>Christie, Agatha</author>
+      <title>Murder on the Orient Express</title>
+      <genre>Mystery</genre>
+      <price>8.95</price>
+      <publish_date>1934-01-01</publish_date>
+      <description>Detective Hercule Poirot investigates a murder aboard a luxury train, where every passenger seems to have a motive.</description>
    </book>
    <book id="bk104">
-      <author>Corets, Eva</author>
-      <title>Oberon's Legacy</title>
-      <genre>Fantasy</genre>
-      <price>5.95</price>
-      <publish_date>2001.03.10</publish_date>
-      <description>In post-apocalypse England, the mysterious 
-      agent known only as Oberon helps to create a new life 
-      for the inhabitants of London. Sequel to Maeve 
-      Ascendant.</description>
+      <author>Dumas, Alexandre</author>
+      <title>The Count of Monte Cristo</title>
+      <genre>Adventure</genre>
+      <price>11.50</price>
+      <publish_date>1844-08-28</publish_date>
+      <description>Edmond Dantès, wrongfully imprisoned, escapes and returns as the mysterious Count of Monte Cristo to exact revenge on those who betrayed him.</description>
    </book>
    <book id="bk105">
-      <author>Corets, Eva</author>
-      <title>The Sundered Grail</title>
-      <genre>Fantasy</genre>
-      <price>5.95</price>
-      <publish_date>2001-09-10</publish_date>
-      <description>The two daughters of Maeve, half-sisters, 
-      battle one another for control of England. Sequel to 
-      Oberon's Legacy.</description>
+      <author>Shelley, Mary</author>
+      <title>Frankenstein</title>
+      <genre>Horror</genre>
+      <price>7.99</price>
+      <publish_date>1818-01-01</publish_date>
+      <description>Scientist Victor Frankenstein creates a living creature from dead tissue, only to be haunted by the consequences of playing God.</description>
    </book>
    <book id="bk106">
-      <author>Randall, Cynthia</author>
-      <title>Lover Birds</title>
+      <author>Austen, Jane</author>
+      <title>Pride and Prejudice</title>
       <genre>Romance</genre>
-      <price>4.95</price>
-      <publish_date>2000-09-02</publish_date>
-      <description>When Carla meets Paul at an ornithology 
-      conference, tempers fly as feathers get ruffled.</description>
+      <price>6.95</price>
+      <publish_date>1813-01-28</publish_date>
+      <description>Elizabeth Bennet navigates issues of manners, morality, and marriage in early 19th-century England, ultimately finding love with the proud Mr. Darcy.</description>
    </book>
    <book id="bk107">
-      <author>Thurman, Paula</author>
-      <title>Splish Splash</title>
-      <genre>Romance</genre>
-      <price>4.95</price>
-      <publish_date>2000-11-02</publish_date>
-      <description>A deep sea diver finds true love twenty 
-      thousand leagues beneath the sea.</description>
+      <author>Hemingway, Ernest</author>
+      <title>The Old Man and the Sea</title>
+      <genre>Literary Fiction</genre>
+      <price>8.50</price>
+      <publish_date>1952-09-01</publish_date>
+      <description>An aging Cuban fisherman struggles with a giant marlin far out in the Gulf Stream in this tale of perseverance and human spirit.</description>
    </book>
    <book id="bk108">
-      <author>Knorr, Stefan</author>
-      <title>Creepy Crawlies</title>
+      <author>Stoker, Bram</author>
+      <title>Dracula</title>
       <genre>Horror</genre>
-      <price>4.95</price>
-      <publish_date>2000-12-06</publish_date>
-      <description>An anthology of horror stories about roaches,
-      centipedes, scorpions  and other insects.</description>
+      <price>7.95</price>
+      <publish_date>1897-05-26</publish_date>
+      <description>Jonathan Harker travels to Transylvania and encounters the terrifying Count Dracula, setting off a battle between good and evil across Victorian England.</description>
    </book>
    <book id="bk109">
-      <author>Kress, Peter</author>
-      <title>Paradox Lost</title>
+      <author>Herbert, Frank</author>
+      <title>Dune</title>
       <genre>Science Fiction</genre>
-      <price>6.95</price>
-      <publish_date>2000-11-02</publish_date>
-      <description>After an inadvertant trip through a Heisenberg
-      Uncertainty Device, James Salway discovers the problems 
-      of being quantum.</description>
+      <price>13.99</price>
+      <publish_date>1965-08-01</publish_date>
+      <description>On the desert planet Arrakis, young Paul Atreides becomes embroiled in a political and ecological struggle over the universe's most valuable resource — spice.</description>
    </book>
    <book id="bk110">
-      <author>O'Brien, Tim</author>
-      <title>Microsoft .NET: The Programming Bible</title>
-      <genre>Computer</genre>
-      <price>36.95</price>
-      <publish_date>2000-12-09</publish_date>
-      <description>Microsoft's .NET initiative is explored in 
-      detail in this deep programmer's reference.</description>
+      <author>Dostoevsky, Fyodor</author>
+      <title>Crime and Punishment</title>
+      <genre>Literary Fiction</genre>
+      <price>10.99</price>
+      <publish_date>1866-01-01</publish_date>
+      <description>A poverty-stricken student commits a murder and wrestles with guilt, morality, and redemption in 19th-century St. Petersburg.</description>
    </book>
    <book id="bk111">
-      <author>O'Brien, Tim</author>
-      <title>MSXML3: A Comprehensive Guide</title>
-      <genre>Computer</genre>
-      <price>36.95</price>
-      <publish_date>2000-12-01</publish_date>
-      <description>The Microsoft MSXML3 parser is covered in 
-      detail, with attention to XML DOM interfaces, XSLT processing, 
-      SAX and more.</description>
+      <author>Verne, Jules</author>
+      <title>Twenty Thousand Leagues Under the Sea</title>
+      <genre>Adventure</genre>
+      <price>8.99</price>
+      <publish_date>1870-01-01</publish_date>
+      <description>Professor Aronnax joins the mysterious Captain Nemo aboard the submarine Nautilus on an extraordinary voyage through the world's oceans.</description>
    </book>
-   <book>
-      <author>Galos, Mike</author>
-      <title>Visual Studio 7: A Comprehensive Guide</title>
-      <genre>Computer</genre>
-      <price>49.95</price>
-      <publish_date>2001-04-16</publish_date>
-      <description>Microsoft Visual Studio 7 is explored in depth,
-      looking at how Visual Basic, Visual C++, C#, and ASP+ are 
-      integrated into a comprehensive development 
-      environment.</description>
+   <book id="bk112">
+      <author>Fitzgerald, F. Scott</author>
+      <title>The Great Gatsby</title>
+      <genre>Literary Fiction</genre>
+      <price>9.50</price>
+      <publish_date>1925-04-10</publish_date>
+      <description>In the roaring 1920s, narrator Nick Carraway observes the obsessive pursuit of the American Dream by his enigmatic neighbour Jay Gatsby.</description>
    </book>
 </catalog>
